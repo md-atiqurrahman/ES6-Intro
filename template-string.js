@@ -1,3 +1,7 @@
+//3 ways to declare a string
+const myName = 'atiqur rahman';
+const myName = "atiqur rahman";
+const myName = `atiqur rahman`;
 //write multiple line string in old way
 const myHobby = 'my name is Atiqur Rahman\n'+
 'my age is 21 year.\n'+
